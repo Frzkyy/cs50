@@ -1,3 +1,2 @@
-a = input("Masukan nama: ").title()
-
-print(a)
+text = input("").lower()
+print(text)
