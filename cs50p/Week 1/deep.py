@@ -1,4 +1,4 @@
-text = input("")
+text = input(" ").lower().strip()
 
 match text:
     case "42" | "forty-two" | "forty two":
