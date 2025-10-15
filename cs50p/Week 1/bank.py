@@ -1,4 +1,4 @@
-text = input(" ").lower().strip()
+text = input("").lower().strip()
 
 if text.count('hello', 0,5) == 1:
     print("$0")
