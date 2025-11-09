@@ -6,3 +6,6 @@ Week 4:
 
 Week 5:
     pip install pytest
+
+Week 6:
+    pip install tabulate
